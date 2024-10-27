@@ -12,12 +12,10 @@
 ![](https://img.shields.io/badge/-FastAPI-009688?style=&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-pypi-3775A9?style=&logo=pypi&logoColor=fff)
 ![](https://img.shields.io/badge/-renpy-FF7F7F?style=&logo=renpy&logoColor=fff)
-
 ![](https://img.shields.io/badge/-wxapp-47A248?style=&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-JavaScript-3178C6?style=&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-47A248?style=&logo=Node.js&logoColor=fff)
-
 ![](https://img.shields.io/badge/-C%23-000000?style=&logo=sharp&logoColor=fff)
 ![](https://img.shields.io/badge/-Unity-000000?style=&logo=Unity&logoColor=fff)
 
@@ -29,7 +27,6 @@
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=&logo=PostgreSQL&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=&logo=MongoDB&logoColor=fff)
 ![](https://img.shields.io/badge/-SQLite-003B57?style=&logo=SQLite&logoColor=fff)
-
 ![](https://img.shields.io/badge/-elasticsearch-005571?style=&logo=elasticsearch&logoColor=fff)
 ![](https://img.shields.io/badge/-rabbitmq-FF6600?style=&logo=rabbitmq&logoColor=fff)
 
