@@ -2,7 +2,6 @@ name: Waka Readme
 
 on:
   push:
-    main:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
