@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=blue&vCenter=true&width=400&height=40&lines=Hi!I'm+tomorinao-www~~~~~~;I+like+ACG~~~~~~)](https://git.io/typing-svg)
 
 | <img align="" src="https://github-readme-stats.vercel.app/api?username=tomorinao-www&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorinao-www&layout=compact&hide_border=true" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 
 - 🌱 I’m currently learning: NLP, LLM
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [RWKV](https://rwkv.cn)
@@ -35,10 +35,8 @@
 ![](https://img.shields.io/badge/-SpringBoot-6DB33F?style=&logo=SpringBoot&logoColor=fff)
 ![](https://img.shields.io/badge/-SpringCloud-6DB33F?style=&logo=Spring&logoColor=fff)
 
+<!-- ![Code Time](http://img.shields.io/badge/CodeTime-666hrs%20666mins-blue) -->
+
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/CodeTime-666hrs%20666mins-blue)
-
-📊 **This Week I Spent My Time On**
 
 <!--END_SECTION:waka-->
