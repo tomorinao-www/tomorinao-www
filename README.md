@@ -38,8 +38,6 @@
 <!-- ![Code Time](http://img.shields.io/badge/CodeTime-666hrs%20666mins-blue) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -75,5 +73,5 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 29/10/2024 16:03:39 UTC
+ Last Updated on 29/10/2024 16:04:02 UTC
 <!--END_SECTION:waka-->
