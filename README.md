@@ -40,24 +40,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -70,5 +52,5 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 29/10/2024 15:59:44 UTC
+ Last Updated on 29/10/2024 16:00:06 UTC
 <!--END_SECTION:waka-->
