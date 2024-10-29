@@ -38,5 +38,37 @@
 <!-- ![Code Time](http://img.shields.io/badge/CodeTime-666hrs%20666mins-blue) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Batchfile                1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+
+ Last Updated on 29/10/2024 11:39:44 UTC
 <!--END_SECTION:waka-->
