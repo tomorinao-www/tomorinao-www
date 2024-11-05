@@ -9,6 +9,7 @@
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-langchain-1C3C3C?style=&logo=langchain&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-pypi-3775A9?style=&logo=pypi&logoColor=fff)
 ![](https://img.shields.io/badge/-renpy-FF7F7F?style=&logo=renpy&logoColor=fff)
