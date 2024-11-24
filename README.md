@@ -10,13 +10,14 @@
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-langchain-1C3C3C?style=&logo=langchain&logoColor=fff)
-![](https://img.shields.io/badge/-FastAPI-009688?style=&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-pypi-3775A9?style=&logo=pypi&logoColor=fff)
+![](https://img.shields.io/badge/-FastAPI-009688?style=&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-renpy-FF7F7F?style=&logo=renpy&logoColor=fff)
+![](https://img.shields.io/badge/-langchain-1C3C3C?style=&logo=langchain&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=&logo=JavaScript&logoColor=fff)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=&logo=TypeScript&logoColor=fff)
 ![](https://img.shields.io/badge/-wxapp-47A248?style=&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=&logo=Vue.js&logoColor=fff)
-![](https://img.shields.io/badge/-JavaScript-3178C6?style=&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-47A248?style=&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-C%23-000000?style=&logo=sharp&logoColor=fff)
 ![](https://img.shields.io/badge/-Unity-000000?style=&logo=Unity&logoColor=fff)
