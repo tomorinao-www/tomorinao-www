@@ -22,9 +22,10 @@
 ![](https://img.shields.io/badge/-C%23-000000?style=&logo=sharp&logoColor=fff)
 ![](https://img.shields.io/badge/-Unity-000000?style=&logo=Unity&logoColor=fff)
 
+![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=&logo=GitHubActions&logoColor=fff)
+![](https://img.shields.io/badge/-kubernetes-326CE5?style=&logo=kubernetes&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-MySQL-2496ED?style=&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=&logo=PostgreSQL&logoColor=fff)
