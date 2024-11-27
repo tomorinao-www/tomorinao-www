@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: NLP, LLM
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [RWKV](https://rwkv.cn)
-- 💬 Ask me about: [NoneBot-Plugin](https://github.com/nonebot), [naotool](https://github.com/naotool)
+- 💬 Ask me about: [NoneBot-Plugin](https://github.com/nonebot), [naotool](https://github.com/tomorinao-www/naotool)
 - My site -> [wwnao.xyz](http://wwnao.xyz)
 
 🌟 **My Skills**  
