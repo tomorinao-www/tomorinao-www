@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: NLP, LLM
 - 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [RWKV](https://rwkv.cn)
 - 💬 Ask me about: [NoneBot-Plugin](https://github.com/nonebot), [naotool](https://github.com/tomorinao-www/naotool)
-- My site -> [wwnao.xyz](http://blog.wwnao.xyz)
+- My site -> [blog.wwnao.xyz](http://blog.wwnao.xyz)
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=&logo=Python&logoColor=fff)
