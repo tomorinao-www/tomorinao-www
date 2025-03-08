@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=blue&vCenter=true&width=400&height=40&lines=Hi!I'm+tomorinao-www;,a+full-stack+AI+developer++;I+like+ACG++~~~~~~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=blue&vCenter=true&width=400&height=40&lines=Hi!I'm+tomorinao-www;I+like+ACG++~~~~~~)](https://git.io/typing-svg)
 
 | <img align="" src="https://github-readme-stats.vercel.app/api?username=tomorinao-www&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorinao-www&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
