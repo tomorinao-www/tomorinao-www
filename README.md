@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=blue&vCenter=true&width=400&height=40&lines=Hi!I'm+tomorinao-www;I+like+ACG++~~~~~~)](https://git.io/typing-svg)
 
-| <img align="" src="https://github-readme-stats.vercel.app/api?username=tomorinao-www&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorinao-www&layout=compact&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=tomorinao-www&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="tomorinao-www's github stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorinao-www&layout=compact&hide_border=true&theme=tokyonight" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 
-- 🌱 I’m currently learning: NLP, LLM
-- 👯 I’m collaborating on: [NoneBot](https://github.com/nonebot), [RWKV](https://rwkv.cn)
-- 💬 Ask me about: [NoneBot-Plugin](https://github.com/nonebot), [naotool](https://github.com/tomorinao-www/naotool)
-- My site -> [blog.wwnao.xyz](https://blog.wwnao.xyz)
+- blog -> [blog.wwnao.xyz](https://blog.wwnao.xyz)
+- bilibili -> [space.bilibili.com/186677485](https://space.bilibili.com/186677485)
+- qq -> 1520872279
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=&logo=Python&logoColor=fff)
