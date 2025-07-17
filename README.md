@@ -48,18 +48,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 mins             ██████████████████████░░░   86.32 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tomorinao-www.github.io  18 mins             ██████████████████████░░░   86.32 % 
-Unknown Project          2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
