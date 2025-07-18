@@ -48,16 +48,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 23 mins       █████████████████████████   99.87 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+QQbot                    2 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
