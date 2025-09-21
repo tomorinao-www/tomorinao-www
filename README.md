@@ -40,6 +40,28 @@
 <!-- ![Code Time](http://img.shields.io/badge/CodeTime-666hrs%20666mins-blue) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2056%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 44 mins       ████████████████████████░   96.09 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+py                       2 hrs 36 mins       ███████████████████████░░   91.44 % 
+QQbot                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+
+💻 Operating System: 
+Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
