@@ -22,17 +22,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         █████████████████████████   100.00 % 
+Markdown                 3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RAG-tech                 1 hr 4 mins         ████████████████████████░   96.91 % 
-graduation_design        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+RAG-tech                 3 hrs 52 mins       █████████████████████████   99.13 % 
+graduation_design        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
