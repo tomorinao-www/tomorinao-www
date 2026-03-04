@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,17 +22,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 54 mins       █████████████████████████   100.00 % 
+Markdown                 4 hrs 15 mins       █████████████████████████   99.14 % 
+BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RAG-tech                 3 hrs 52 mins       █████████████████████████   99.13 % 
-graduation_design        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+RAG-tech                 3 hrs 52 mins       ███████████████████████░░   90.19 % 
+综述文献-LLM for sec-2024    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+graduation_design        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
