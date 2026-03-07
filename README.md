@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,21 +22,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 13 mins       ██████████████████████░░░   88.03 % 
-BibTeX                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Markdown                 4 hrs 21 mins       ████████████████████░░░░░   79.30 % 
+BibTeX                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RAG-tech                 4 hrs 6 mins        █████████████████░░░░░░░░   69.39 % 
-综述文献-LLM for sec-2024    1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-graduation_design        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+RAG-tech                 3 hrs 2 mins        ██████████████░░░░░░░░░░░   55.44 % 
+综述文献-LLM for sec-2024    1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.26 % 
+graduation_design        44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
