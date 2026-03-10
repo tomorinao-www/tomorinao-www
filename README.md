@@ -22,21 +22,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 21 mins       ████████████████████░░░░░   79.30 % 
-BibTeX                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Markdown                 1 hr 32 mins        ██████████████░░░░░░░░░░░   57.63 % 
+BibTeX                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Python                   28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RAG-tech                 3 hrs 2 mins        ██████████████░░░░░░░░░░░   55.44 % 
-综述文献-LLM for sec-2024    1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.26 % 
-graduation_design        44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+综述文献-LLM for sec-2024    1 hr 39 mins        ███████████████░░░░░░░░░░   61.93 % 
+graduation_design        44 mins             ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+RAG-tech                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
