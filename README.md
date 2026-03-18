@@ -22,23 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 44 mins       ████████████░░░░░░░░░░░░░   46.42 % 
-Markdown                 2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.24 % 
-Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-BibTeX                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+JSON                     2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+Python                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+BibTeX                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                3 hrs 4 mins        █████████████░░░░░░░░░░░░   51.88 % 
-graduation_design        2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   34.37 % 
-综述文献-LLM for sec-2024    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-test-gd                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CVE-GENIE                3 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.33 % 
+graduation_design        2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.68 % 
+QQbot                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+综述文献-LLM for sec-2024    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+test-gd                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 
 💻 Operating System: 
-Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
