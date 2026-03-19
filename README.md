@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Python                   58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-BibTeX                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JSON                     2 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.97 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Python                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                3 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.33 % 
-graduation_design        2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.68 % 
-QQbot                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-综述文献-LLM for sec-2024    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-test-gd                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+CVE-GENIE                3 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.15 % 
+graduation_design        2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
+QQbot                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+test-gd                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+综述文献-LLM for sec-2024    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
