@@ -22,24 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   40.26 % 
-JSON                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Python                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+JSON                     1 hr 5 mins         ███████████░░░░░░░░░░░░░░   42.37 % 
+Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
-graduation_design        1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   31.56 % 
-QQbot                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-test-gd                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-vul-detect               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+CVE-GENIE                1 hr 25 mins        ██████████████░░░░░░░░░░░   55.13 % 
+QQbot                    27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+vul-detect               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+test-gd                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+graduation_design        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
