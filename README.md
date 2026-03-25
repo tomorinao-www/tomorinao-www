@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 48 mins        ██████████████░░░░░░░░░░░   54.49 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+JSON                     2 hrs 45 mins       █████████████████░░░░░░░░   67.44 % 
+Markdown                 49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                2 hrs 10 mins       ████████████████░░░░░░░░░   65.07 % 
-QQbot                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-vul-detect               24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-test-gd                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-graduation_design        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+CVE-GENIE                3 hrs 11 mins       ████████████████████░░░░░   78.11 % 
+vul-detect               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+综述文献-LLM for sec-2024    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+test-gd                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+graduation_design        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
