@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,21 +22,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     4 hrs 15 mins       ███████████████████░░░░░░   74.92 % 
-Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+JSON                     5 hrs 55 mins       ████████████████████░░░░░   78.01 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                5 hrs 3 mins        ██████████████████████░░░   89.01 % 
-vul-detect               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-综述文献-LLM for sec-2024    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-agent+sec                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+CVE-GENIE                6 hrs 57 mins       ███████████████████████░░   91.76 % 
+vul-detect               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+综述文献-LLM for sec-2024    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+agent+sec                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
