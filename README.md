@@ -22,22 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.45 % 
-JSON                     54 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.71 % 
+JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+TeX                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-GENIE                1 hr 24 mins        ███████████░░░░░░░░░░░░░░   43.15 % 
-J-NaNA                   1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   34.87 % 
-graduation_design        43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+QQbot                    3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
+CVE-GENIE                1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+J-NaNA                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+graduation_design        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+xd-compilers-principles  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
