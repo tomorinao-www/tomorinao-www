@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.71 % 
-JSON                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-TeX                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Python                   5 hrs 8 mins        █████████████░░░░░░░░░░░░   51.15 % 
+JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+TeX                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-QQbot                    3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
-CVE-GENIE                1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-J-NaNA                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-graduation_design        43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-xd-compilers-principles  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+QQbot                    4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+CVE-GENIE                1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+tomorinao-www.github.io  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+J-NaNA                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+xd-compilers-principles  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 
 💻 Operating System: 
-Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
