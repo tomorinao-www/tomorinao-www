@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,34 +22,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 8 mins        █████████████░░░░░░░░░░░░   51.15 % 
-JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-TeX                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Python                   5 hrs 43 mins       ████████████░░░░░░░░░░░░░   47.92 % 
+JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Markdown                 1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-QQbot                    4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
-CVE-GENIE                1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-tomorinao-www.github.io  1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-J-NaNA                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-xd-compilers-principles  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+QQbot                    4 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.99 % 
+tomorinao-www.github.io  3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+CVE-GENIE                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+xd-compilers-principles  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+mas-decsecops            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Windows                  10 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   10 repos            ███████████████░░░░░░░░░░   58.82 % 
-HTML                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
