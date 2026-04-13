@@ -3,7 +3,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=tomorinao-www&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="tomorinao-www's github stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomorinao-www&layout=compact&hide_border=true&theme=tokyonight" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 
-- blog -> [blog.wwnao.xyz](https://blog.wwnao.xyz)
+- blog -> [tomorinao-www.github.io](https://tomorinao-www.github.io)
 - bilibili -> [space.bilibili.com/186677485](https://space.bilibili.com/186677485)
 - qq -> 1520872279
 
