@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   8 hrs 1 min         █████████████░░░░░░░░░░░░   52.28 % 
-JSON                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-TeX                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Python                   11 hrs 7 mins       ███████████████░░░░░░░░░░   58.91 % 
+JSON                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 48 mins      █████████████████████████   99.60 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-QQbot                    5 hrs               ████████░░░░░░░░░░░░░░░░░   32.63 % 
-tomorinao-www.github.io  3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-graduation_design        2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-mas-decsecops            1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-CVE-GENIE                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+QQbot                    6 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.64 % 
+graduation_design        4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+tomorinao-www.github.io  3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+mas-decsecops            1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+CVE-GENIE                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
