@@ -14,7 +14,34 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2024%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+Other                    4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+TeX                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 47 mins      █████████████████████████   99.46 % 
+Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+
+🐱‍💻 Projects: 
+QQbot                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+mas-decsecops            4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+drone-agent              3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+graduation_design        2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+gpt-researcher           1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+
+💻 Operating System: 
+Windows                  17 hrs 53 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
