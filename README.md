@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-Other                    4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-TeX                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    5 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Python                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
+TeX                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+BibTeX                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 42 mins      █████████████████████████   99.46 % 
-Unknown Editor           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+VS Code                  18 hrs 4 mins       █████████████████████████   99.88 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-mas-decsecops            4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-QQbot                    4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-drone-agent              3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-graduation_design        2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-gpt-researcher           1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+mas-decsecops            4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+QQbot                    3 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+drone-agent              3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+graduation_design        2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+gpt-researcher           1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 💻 Operating System: 
-Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
