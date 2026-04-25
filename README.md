@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   10 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.09 % 
-Markdown                 5 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Other                    4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-TeX                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-BibTeX                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   12 hrs 30 mins      ██████████████░░░░░░░░░░░   54.56 % 
+Markdown                 4 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Other                    3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+TeX                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 10 mins      █████████████████████████   98.98 % 
-Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  22 hrs 42 mins      █████████████████████████   98.96 % 
+Unknown Editor           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-mas-decsecops            7 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-QQbot                    7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-graduation_design        6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-CVE-GENIE                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+graduation_design        10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
+QQbot                    6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+mas-decsecops            5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+CVE-GENIE                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+tomorinao                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
