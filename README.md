@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 14 mins       █████████████░░░░░░░░░░░░   50.73 % 
-Markdown                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-TeX                      2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Python                   9 hrs 42 mins       █████████████░░░░░░░░░░░░   51.66 % 
+Markdown                 2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+TeX                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Other                    1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 3 mins       █████████████████████████   99.04 % 
-Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+VS Code                  18 hrs 37 mins      █████████████████████████   99.07 % 
+Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🐱‍💻 Projects: 
-graduation_design        9 hrs 5 mins        ████████████░░░░░░░░░░░░░   49.87 % 
-QQbot                    3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-mas-decsecops            2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-xduts_demo               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-CVE-GENIE                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+graduation_design        9 hrs 30 mins       █████████████░░░░░░░░░░░░   50.57 % 
+QQbot                    3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+mas-decsecops            2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+test-gd                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+xduts_demo               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 
 💻 Operating System: 
-Windows                  18 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
