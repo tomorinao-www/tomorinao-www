@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Python                   7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Other                    5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-TeX                      3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Markdown                 7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+Python                   6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+Other                    5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+TeX                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 38 mins      █████████████████████████   99.43 % 
-Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  25 hrs 28 mins      █████████████████████████   99.51 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-graduation_design        19 hrs 12 mins      ████████████████░░░░░░░░░   64.40 % 
-test-gd                  4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-mas-decsecops            2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-xduts_demo               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-QQbot                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+graduation_design        17 hrs 29 mins      █████████████████░░░░░░░░   68.31 % 
+test-gd                  4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+xduts_demo               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+QQbot                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+tmp                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Windows                  29 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
