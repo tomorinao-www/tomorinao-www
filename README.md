@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Python                   6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Other                    5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-TeX                      2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Markdown                 7 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Python                   6 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Other                    5 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+TeX                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 28 mins      █████████████████████████   99.51 % 
-Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+VS Code                  24 hrs 15 mins      █████████████████████████   99.49 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-graduation_design        17 hrs 29 mins      █████████████████░░░░░░░░   68.31 % 
-test-gd                  4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-xduts_demo               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-QQbot                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-tmp                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+graduation_design        17 hrs 54 mins      ██████████████████░░░░░░░   73.40 % 
+test-gd                  5 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+tmp                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+xduts_demo               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+QQbot                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Windows                  25 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
