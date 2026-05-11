@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,25 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      6 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Markdown                 4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Other                    4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Python                   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Git Config               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TeX                      5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
+Markdown                 4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Other                    3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+BibTeX                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 50 mins      █████████████████████████   99.74 % 
-Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+VS Code                  15 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-graduation_design        13 hrs 53 mins      ██████████████████░░░░░░░   73.56 % 
-mas-decsecops            4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-QQbot                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-test-gd                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-tomorinao                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+graduation_design        11 hrs 25 mins      ██████████████████░░░░░░░   71.67 % 
+mas-decsecops            4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+tomorinao                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  18 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
