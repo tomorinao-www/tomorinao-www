@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
-Markdown                 4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Other                    3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-Python                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-BibTeX                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TeX                      5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
+Markdown                 3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Other                    3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+BibTeX                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-graduation_design        11 hrs 25 mins      ██████████████████░░░░░░░   71.67 % 
-mas-decsecops            4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-tomorinao                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+graduation_design        10 hrs 32 mins      █████████████████░░░░░░░░   69.77 % 
+mas-decsecops            4 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+tomorinao                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+new_att_det              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+QQbot                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  15 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
