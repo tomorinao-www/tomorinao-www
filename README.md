@@ -14,6 +14,30 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2047%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 42 mins             ██████████████████░░░░░░░   70.68 % 
+Python                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+VS Code                  59 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+new_att_det              49 mins             █████████████████████░░░░   82.41 % 
+openclaw_resource        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+
+💻 Operating System: 
+Windows                  59 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
