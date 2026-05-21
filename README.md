@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,20 +22,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 42 mins             ██████████████████░░░░░░░   70.68 % 
-Python                   15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   53 mins             ████████████░░░░░░░░░░░░░   48.92 % 
+Markdown                 43 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
+Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Batchfile                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-new_att_det              49 mins             █████████████████████░░░░   82.41 % 
-openclaw_resource        10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+test-gd                  49 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
+new_att_det              45 mins             ██████████░░░░░░░░░░░░░░░   41.86 % 
+openclaw_resource        10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+graduation_design        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
