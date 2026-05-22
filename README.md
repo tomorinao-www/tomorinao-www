@@ -14,31 +14,30 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2040%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   53 mins             ████████████░░░░░░░░░░░░░   48.92 % 
-Markdown                 43 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
-Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Batchfile                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Python                   1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.55 % 
+Markdown                 1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.02 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Batchfile                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test-gd                  49 mins             ███████████░░░░░░░░░░░░░░   45.01 % 
-new_att_det              45 mins             ██████████░░░░░░░░░░░░░░░   41.86 % 
-openclaw_resource        10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-graduation_design        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+graduation_design        1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.38 % 
+test-gd                  49 mins             ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+dog-agent                47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+new_att_det              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+tomorinao                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
