@@ -20,24 +20,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 30 mins        ████████████░░░░░░░░░░░░░   48.55 % 
-Markdown                 1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   35.02 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Batchfile                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Markdown                 1 hr 50 mins        ███████████░░░░░░░░░░░░░░   43.67 % 
+Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-graduation_design        1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.38 % 
-test-gd                  49 mins             ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-dog-agent                47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-new_att_det              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-tomorinao                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+dog-agent                2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.15 % 
+graduation_design        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+test-gd                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+tomorinao                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
