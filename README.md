@@ -14,29 +14,31 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%201%20min-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 50 mins        ███████████░░░░░░░░░░░░░░   43.67 % 
-Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Markdown                 1 hr 59 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
+Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.15 % 
-graduation_design        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-test-gd                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-tomorinao                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+dog-agent                2 hrs 13 mins       █████████████░░░░░░░░░░░░   50.84 % 
+graduation_design        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+test-gd                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+tomorinao                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
