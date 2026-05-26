@@ -22,23 +22,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 59 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
-Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Other                    31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Terraform                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+BibTeX                   2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
+Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+Python                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+TeX                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                2 hrs 13 mins       █████████████░░░░░░░░░░░░   50.84 % 
-graduation_design        1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
-test-gd                  49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-tomorinao                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+graduation_design        4 hrs 8 mins        ██████████████░░░░░░░░░░░   55.48 % 
+dog-agent                2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+test-gd                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+tomorinao                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
