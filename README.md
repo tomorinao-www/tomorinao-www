@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-BibTeX                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Markdown                 2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Python                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-TeX                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Markdown                 3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+BibTeX                   3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Python                   2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+TeX                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-graduation_design        8 hrs 5 mins        ████████████████░░░░░░░░░   64.62 % 
-dog-agent                3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-py                       55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-tomorinao                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-TOMORI~1                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+graduation_design        8 hrs 31 mins       ████████████████░░░░░░░░░   65.33 % 
+dog-agent                3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+py                       55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+TOMORI~1                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+tomorinao                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
