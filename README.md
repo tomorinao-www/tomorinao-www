@@ -14,33 +14,31 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2050%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.20 % 
-Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-TeX                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-YAML                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Markdown                 6 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.11 % 
+YAML                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Other                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+TeX                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 28 mins      █████████████████████████   98.42 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+VS Code                  14 hrs 7 mins       █████████████████████████   98.71 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-dog-agent                6 hrs 2 mins        █████████████░░░░░░░░░░░░   51.78 % 
-graduation_design        4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
-test-gd                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-mas-decsecops            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+dog-agent                8 hrs 8 mins        ██████████████░░░░░░░░░░░   56.87 % 
+graduation_design        3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+CVE-GENIE                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+test-gd                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+mas-decsecops            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
