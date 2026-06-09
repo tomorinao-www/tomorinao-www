@@ -22,25 +22,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
-YAML                     2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Other                    1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-TeX                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Markdown                 5 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.82 % 
+YAML                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   98.48 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VS Code                  10 hrs 57 mins      █████████████████████████   98.34 % 
+Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🐱‍💻 Projects: 
-dog-agent                8 hrs 8 mins        █████████████████░░░░░░░░   67.25 % 
-graduation_design        2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-CVE-GENIE                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-mas-decsecops            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+dog-agent                8 hrs 45 mins       ████████████████████░░░░░   78.63 % 
+graduation_design        1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+CVE-GENIE                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+TOMORI~1                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  12 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
