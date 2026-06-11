@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%203%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,25 +22,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.08 % 
-YAML                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-TeX                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Python                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown                 3 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+YAML                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+TeX                      1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Python                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 20 mins       █████████████████████████   98.06 % 
-Codex CLI                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                6 hrs 49 mins       ██████████████████░░░░░░░   71.69 % 
-mas-decsecops            1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-CVE-GENIE                58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-tmp                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-TOMORI~1                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+dog-agent                5 hrs 56 mins       █████████████████░░░░░░░░   68.89 % 
+mas-decsecops            1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+CVE-GENIE                58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+TOMORI~1                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  9 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
