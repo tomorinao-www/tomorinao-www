@@ -22,23 +22,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
-TeX                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Python                   45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+TeX                      1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.55 % 
+Markdown                 1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                3 hrs 42 mins       ███████████████░░░░░░░░░░   58.13 % 
-mas-decsecops            1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-CVE-GENIE                58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-TOMORI~1                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+mas-decsecops            1 hr 40 mins        █████████████░░░░░░░░░░░░   52.66 % 
+CVE-GENIE                1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.03 % 
+dog-agent                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
