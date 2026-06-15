@@ -22,22 +22,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.55 % 
-Markdown                 1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   33.18 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Python                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Text                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.02 % 
+TeX                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mas-decsecops            1 hr 40 mins        █████████████░░░░░░░░░░░░   52.66 % 
-CVE-GENIE                1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.03 % 
-dog-agent                25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+mas-decsecops            1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   38.22 % 
+dog-agent                1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.08 % 
+CVE-GENIE                1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
