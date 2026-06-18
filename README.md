@@ -22,23 +22,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 45 mins        ███████████████░░░░░░░░░░   58.50 % 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 2 hrs 13 mins       ████████████████░░░░░░░░░   62.69 % 
+Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                1 hr 44 mins        ██████████████░░░░░░░░░░░   57.88 % 
-CVE-GENIE                1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   36.28 % 
-mas-decsecops            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+dog-agent                2 hrs 27 mins       █████████████████░░░░░░░░   69.19 % 
+CVE-GENIE                1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
