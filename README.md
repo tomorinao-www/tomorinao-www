@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-548%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,22 +22,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ████████████████░░░░░░░░░   62.69 % 
-Python                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 2 hrs 19 mins       ██████████████░░░░░░░░░░░   55.07 % 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+TeX                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                2 hrs 27 mins       █████████████████░░░░░░░░   69.19 % 
-CVE-GENIE                1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.66 % 
-QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+dog-agent                2 hrs 27 mins       ███████████████░░░░░░░░░░   58.28 % 
+CVE-GENIE                1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+mas-decsecops            39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
