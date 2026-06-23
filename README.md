@@ -22,22 +22,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 36 mins             ███████████░░░░░░░░░░░░░░   44.25 % 
-TeX                      23 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-Python                   12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-BibTeX                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-OpenEdge ABL             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Markdown                 36 mins             ████████░░░░░░░░░░░░░░░░░   32.87 % 
+Other                    28 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+TeX                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Python                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+BibTeX                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                43 mins             █████████████░░░░░░░░░░░░   51.79 % 
-mas-decsecops            39 mins             ████████████░░░░░░░░░░░░░   47.82 % 
-QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+dog-agent                1 hr 11 mins        ████████████████░░░░░░░░░   64.15 % 
+mas-decsecops            39 mins             █████████░░░░░░░░░░░░░░░░   35.52 % 
+QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
