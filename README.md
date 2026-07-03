@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,17 +22,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 9 mins        ███████████████░░░░░░░░░░   58.18 % 
-Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Python                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+Markdown                 2 hrs 9 mins        ███████████████░░░░░░░░░░   58.37 % 
+Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Python                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
 VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                3 hrs 41 mins       █████████████████████████   99.67 % 
-QQbot                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+dog-agent                3 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
