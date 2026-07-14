@@ -22,17 +22,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ████████████████░░░░░░░░░   62.78 % 
-Other                    40 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
+Other                    1 hr 20 mins        █████████████░░░░░░░░░░░░   52.20 % 
+Markdown                 1 hr 13 mins        ████████████░░░░░░░░░░░░░   47.80 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                1 hr 49 mins        █████████████████████████   100.00 % 
+dog-agent                2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
