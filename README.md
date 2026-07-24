@@ -14,29 +14,27 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2056%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       █████████████░░░░░░░░░░░░   53.00 % 
-Other                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-BibTeX                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 5 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.50 % 
+Python                   2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                8 hrs 46 mins       █████████████████████████   99.41 % 
-QQbot                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+dog-agent                10 hrs 54 mins      █████████████████████████   99.52 % 
+QQbot                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  8 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
