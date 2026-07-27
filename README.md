@@ -22,20 +22,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-Python                   2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Other                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Markdown                 2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
+Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                7 hrs 46 mins       █████████████████████████   100.00 % 
+dog-agent                6 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
