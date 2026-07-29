@@ -14,62 +14,61 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2047%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2011%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
-Other                    1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Markdown                 4 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.42 % 
+Python                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dog-agent                6 hrs 35 mins       █████████████████████████   100.00 % 
+dog-agent                6 hrs 23 mins       █████████████████░░░░░░░░   67.09 % 
+network-simulation       2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+tomoribot                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+QQbot                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 59 mins (90.95%)
+⏱ AI Coding Time: 6 hrs 43 mins (70.67%)
 
-✍️ 1,303 lines written by AI, 33 lines written by hand (97.53% AI-written)
+✍️ 1,303 lines written by AI, 41 lines written by hand (96.95% AI-written)
 
-🔤 42,540,249 Input Tokens, 341,087 Output Tokens
+🔤 42,401,929 Input Tokens, 373,575 Output Tokens
 
-💵 $209.12 Estimated AI Cost This Week
+💵 $209.41 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 72 AI Prompts
+🧠 16 AI Sessions, 75 AI Prompts
 
 GPT                      1,316 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.53% of written lines came from AI
-📄 Detailed Prompter — average 683 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+🤖 AI-Driven — 96.95% of written lines came from AI
+📄 Detailed Prompter — average 641 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
