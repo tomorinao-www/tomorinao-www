@@ -14,56 +14,52 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2046%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2043%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 28 mins      █████████████████░░░░░░░░   67.08 % 
-Python                   4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Vue                      2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown                 24 hrs 33 mins      ██████████████████░░░░░░░   71.42 % 
+Python                   4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Vue                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-network-simulation       35 hrs              ████████████████████████░   95.97 % 
-tomorinao                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-tomoribot                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-tmp                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-TOMORI~1                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+network-simulation       32 hrs 54 mins      ████████████████████████░   95.66 % 
+tomorinao                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+tomoribot                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+tmp                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TOMORI~1                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  36 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 12 mins (41.69%)
+⏱ AI Coding Time: 13 hrs 41 mins (39.82%)
 
-✍️ 5,302 lines written by AI, 930 lines written by hand (85.08% AI-written)
+✍️ 5,353 lines written by AI, 918 lines written by hand (85.36% AI-written)
 
-🔤 129,108,950 Input Tokens, 682,554 Output Tokens
+🔤 95,450,656 Input Tokens, 589,979 Output Tokens
 
-💵 $657.12 Estimated AI Cost This Week
+💵 $451.36 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 123 AI Prompts
+🧠 10 AI Sessions, 108 AI Prompts
 
-GPT                      5,454 lines         █████████████████████████   100.00 % 
+GPT                      5,468 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.08% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 48.01% of changed lines were hand-edited
+🤖 AI-Driven — 85.36% of written lines came from AI
+📝 Concise Prompter — average 455 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 47.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
