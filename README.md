@@ -24,46 +24,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 6 mins        █████████████░░░░░░░░░░░░   51.80 % 
-Python                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-JavaScript               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown                 2 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.71 % 
+Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Vue                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-network-simulation       9 hrs 25 mins       ████████████████████████░   95.49 % 
-tmp                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-dog-agent                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-TOMORI~1                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-tomoribot                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+network-simulation       6 hrs 11 mins       █████████████████████████   99.64 % 
+tomoribot                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  9 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 21 mins (54.27%)
+⏱ AI Coding Time: 4 hrs 58 mins (80.12%)
 
-✍️ 1,684 lines written by AI, 242 lines written by hand (87.44% AI-written)
+✍️ 1,538 lines written by AI, 23 lines written by hand (98.53% AI-written)
 
-🔤 11,573,821 Input Tokens, 187,063 Output Tokens
+🔤 10,888,876 Input Tokens, 175,153 Output Tokens
 
-💵 $71.03 Estimated AI Cost This Week
+💵 $67.24 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 4 AI Sessions, 21 AI Prompts
 
-GPT                      1,709 lines         █████████████████████████   100.00 % 
+GPT                      1,563 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.44% of written lines came from AI
-📝 Concise Prompter — average 250 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.35% of changed lines were hand-edited
+🤖 AI-Driven — 98.53% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
