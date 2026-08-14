@@ -24,43 +24,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.71 % 
-Python                   1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Vue                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Markdown                 1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.61 % 
+JavaScript               1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Python                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Vue                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-network-simulation       6 hrs 11 mins       █████████████████████████   99.64 % 
-tomoribot                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+network-simulation       3 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 58 mins (80.12%)
+⏱ AI Coding Time: 2 hrs 18 mins (71.61%)
 
-✍️ 1,538 lines written by AI, 23 lines written by hand (98.53% AI-written)
+✍️ 411 lines written by AI, 22 lines written by hand (94.92% AI-written)
 
-🔤 10,888,876 Input Tokens, 175,153 Output Tokens
+🔤 2,411,897 Input Tokens, 94,062 Output Tokens
 
-💵 $67.24 Estimated AI Cost This Week
+💵 $22.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
-GPT                      1,563 lines         █████████████████████████   100.00 % 
+GPT                      436 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.53% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.57% of changed lines were hand-edited
+🤖 AI-Driven — 94.92% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
