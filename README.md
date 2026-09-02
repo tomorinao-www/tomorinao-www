@@ -24,27 +24,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 51 mins             ██████████████░░░░░░░░░░░   54.77 % 
-Other                    41 mins             ███████████░░░░░░░░░░░░░░   44.32 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Markdown                 51 mins             ██████████████░░░░░░░░░░░   54.67 % 
+Other                    41 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
 Codex Vscode             1 hr 33 mins        █████████████████████████   99.05 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🐱‍💻 Projects: 
-py                       1 hr 33 mins        █████████████████████████   98.88 % 
-tomoribot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-tmp                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+py                       1 hr 33 mins        █████████████████████████   99.08 % 
+tomoribot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (99.09%)
+⏱ AI Coding Time: 1 hr 33 mins (99.08%)
 
 ✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -52,14 +51,14 @@ Windows                  1 hr 34 mins        ███████████�
 
 💵 $9.01 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 25 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
 GPT                      54 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
