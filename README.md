@@ -24,17 +24,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 51 mins             ██████████████░░░░░░░░░░░   54.67 % 
-Other                    41 mins             ███████████░░░░░░░░░░░░░░   44.41 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Markdown                 51 mins             ██████████████░░░░░░░░░░░   55.18 % 
+Other                    41 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 33 mins        █████████████████████████   99.05 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Codex Vscode             1 hr 33 mins        █████████████████████████   99.97 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-py                       1 hr 33 mins        █████████████████████████   99.08 % 
-tomoribot                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+py                       1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
@@ -43,7 +41,7 @@ Windows                  1 hr 33 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (99.08%)
+⏱ AI Coding Time: 1 hr 33 mins (100.0%)
 
 ✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
