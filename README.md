@@ -24,40 +24,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 51 mins             ██████████████░░░░░░░░░░░   55.18 % 
-Other                    41 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 33 mins        █████████████████████████   99.97 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-py                       1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (100.0%)
-
-✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 906,982 Input Tokens, 52,362 Output Tokens
-
-💵 $9.01 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 24 AI Prompts
-
-GPT                      54 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
