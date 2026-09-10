@@ -24,22 +24,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 14 mins        ███████████████████████░░   92.08 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 7 mins         █████████████████████░░░░   83.16 % 
+Codex Vscode             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dog-agent                1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 26 mins (33.04%)
+
+✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
+
+🔤 1,593,210 Input Tokens, 14,469 Output Tokens
+
+💵 $6.84 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 222 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
