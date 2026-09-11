@@ -14,9 +14,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%205%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -24,27 +24,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 14 mins        ███████████████████████░░   92.08 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                 1 hr 24 mins        ███████████████████████░░   92.96 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████░░░░   83.16 % 
-Codex Vscode             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+VS Code                  1 hr 17 mins        █████████████████████░░░░   85.02 % 
+Codex Vscode             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
 
 🐱‍💻 Projects: 
-dog-agent                1 hr 21 mins        █████████████████████████   100.00 % 
+dog-agent                1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (33.04%)
+⏱ AI Coding Time: 26 mins (29.39%)
 
-✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 41 lines written by hand (0.0% AI-written)
 
 🔤 1,593,210 Input Tokens, 14,469 Output Tokens
 
