@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%205%20mins-blue?style=flat)
 
@@ -24,39 +24,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ███████████████████████░░   92.96 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 1 hr 24 mins        ███████████████████████░░   90.90 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████░░░░   85.02 % 
-Codex Vscode             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+VS Code                  1 hr 19 mins        █████████████████████░░░░   84.94 % 
+Codex Vscode             14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 
 🐱‍💻 Projects: 
-dog-agent                1 hr 31 mins        █████████████████████████   100.00 % 
+dog-agent                1 hr 31 mins        █████████████████████████   98.30 % 
+py                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (29.39%)
+⏱ AI Coding Time: 27 mins (29.15%)
 
 ✍️ 0 lines written by AI, 41 lines written by hand (0.0% AI-written)
 
-🔤 1,593,210 Input Tokens, 14,469 Output Tokens
+🔤 1,594,944 Input Tokens, 15,586 Output Tokens
 
-💵 $6.84 Estimated AI Cost This Week
+💵 $6.88 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
+📝 Concise Prompter — average 208 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
