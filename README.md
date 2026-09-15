@@ -24,46 +24,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.46 % 
-Markdown                 1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Vue                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JSON                     1 hr 27 mins        ████████████░░░░░░░░░░░░░   49.83 % 
+Markdown                 1 hr 25 mins        ████████████░░░░░░░░░░░░░   48.87 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.49 % 
-VS Code                  1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.95 % 
-Codex CLI                32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Codex Vscode             1 hr 32 mins        █████████████░░░░░░░░░░░░   52.51 % 
+VS Code                  1 hr 20 mins        ███████████░░░░░░░░░░░░░░   45.71 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🐱‍💻 Projects: 
-dog-agent                2 hrs 51 mins       █████████████████████░░░░   82.92 % 
-network-simulation       32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-py                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+dog-agent                2 hrs 51 mins       ████████████████████████░   97.32 % 
+py                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+network-simulation       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (67.44%)
+⏱ AI Coding Time: 1 hr 48 mins (61.79%)
 
-✍️ 23 lines written by AI, 43 lines written by hand (34.85% AI-written)
+✍️ 0 lines written by AI, 43 lines written by hand (0.0% AI-written)
 
-🔤 2,345,111 Input Tokens, 64,758 Output Tokens
+🔤 1,838,750 Input Tokens, 53,138 Output Tokens
 
-💵 $14.28 Estimated AI Cost This Week
+💵 $11.45 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 20 AI Prompts
+🧠 6 AI Sessions, 12 AI Prompts
 
-GPT                      24 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.85% of written lines came from AI
-📝 Concise Prompter — average 123 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 67.12% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
