@@ -24,42 +24,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 54 mins       ███████████████████░░░░░░   75.52 % 
-Python                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 2 hrs 58 mins       ████████████████░░░░░░░░░   65.74 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 50 mins       ██████████████████░░░░░░░   73.81 % 
-VS Code                  1 hr                ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+Codex Vscode             2 hrs 51 mins       ████████████████░░░░░░░░░   63.15 % 
+VS Code                  1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   36.85 % 
 
 🐱‍💻 Projects: 
-embody_nav               3 hrs 50 mins       █████████████████████████   100.00 % 
+embody_nav               3 hrs 50 mins       █████████████████████░░░░   85.03 % 
+高级计算机网络                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 
 💻 Operating System: 
-Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 50 mins       █████████████████████░░░░   85.03 % 
+Windows                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 17 mins (85.43%)
+⏱ AI Coding Time: 3 hrs 53 mins (86.09%)
 
 ✍️ 953 lines written by AI, 32 lines written by hand (96.75% AI-written)
 
-🔤 8,787,461 Input Tokens, 292,880 Output Tokens
+🔤 9,550,711 Input Tokens, 345,829 Output Tokens
 
-💵 $169.43 Estimated AI Cost This Week
+💵 $200.94 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 23 AI Prompts
+🧠 3 AI Sessions, 24 AI Prompts
 
 GPT                      953 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.75% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 316 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 3.93% of changed lines were hand-edited
 ```
 
