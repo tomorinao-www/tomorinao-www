@@ -24,46 +24,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.80 % 
-Python                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 3 hrs 14 mins       █████████████░░░░░░░░░░░░   53.10 % 
+Python                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 20 mins       ████████████████████░░░░░   78.91 % 
-VS Code                  1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Codex Vscode             5 hrs 19 mins       ██████████████████████░░░   87.39 % 
+VS Code                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 🐱‍💻 Projects: 
-embody_nav               4 hrs 25 mins       ████████████████░░░░░░░░░   65.49 % 
-高级计算机网络                  1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-新中特                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+embody_nav               4 hrs 25 mins       ██████████████████░░░░░░░   72.76 % 
+新中特                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+高级计算机网络                  48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 
 💻 Operating System: 
-Linux                    4 hrs 25 mins       ████████████████░░░░░░░░░   65.49 % 
-Windows                  2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
+Linux                    4 hrs 25 mins       ██████████████████░░░░░░░   72.76 % 
+Windows                  1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 17 mins (92.89%)
+⏱ AI Coding Time: 5 hrs 40 mins (93.23%)
 
 ✍️ 1,742 lines written by AI, 14 lines written by hand (99.2% AI-written)
 
-🔤 12,744,500 Input Tokens, 651,178 Output Tokens
+🔤 11,981,250 Input Tokens, 598,229 Output Tokens
 
-💵 $327.45 Estimated AI Cost This Week
+💵 $295.94 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 5 AI Sessions, 25 AI Prompts
 
 GPT                      1,725 lines         █████████████████████████   98.68 % 
 Codex-Vscode             23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.2% of written lines came from AI
-📄 Detailed Prompter — average 785 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 815 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 12.07% of changed lines were hand-edited
 ```
 
