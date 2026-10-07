@@ -24,47 +24,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ███████████████░░░░░░░░░░   59.55 % 
-Python                   1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Markdown                 38 mins             ████████████████░░░░░░░░░   64.73 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 34 mins       ███████████████████████░░   91.35 % 
-VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Codex Vscode             39 mins             █████████████████░░░░░░░░   66.80 % 
+VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   33.20 % 
 
 🐱‍💻 Projects: 
-embody_nav               4 hrs 1 min         ████████████████████░░░░░   80.38 % 
-新中特                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-高级计算机网络                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+新中特                      50 mins             ██████████████████████░░░   86.35 % 
+高级计算机网络                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 
 💻 Operating System: 
-Linux                    4 hrs 1 min         ████████████████████░░░░░   80.38 % 
-Windows                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (94.36%)
+⏱ AI Coding Time: 43 mins (73.71%)
 
-✍️ 1,585 lines written by AI, 14 lines written by hand (99.12% AI-written)
+✍️ 387 lines written by AI, 14 lines written by hand (96.51% AI-written)
 
-🔤 10,588,644 Input Tokens, 505,198 Output Tokens
+🔤 465,980 Input Tokens, 36,697 Output Tokens
 
-💵 $230.05 Estimated AI Cost This Week
+💵 $7.97 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 20 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-GPT                      1,590 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      387 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.12% of written lines came from AI
-📄 Detailed Prompter — average 949 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 13.11% of changed lines were hand-edited
+🤖 AI-Driven — 96.51% of written lines came from AI
+📝 Concise Prompter — average 466 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 3.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
