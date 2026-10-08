@@ -24,43 +24,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 38 mins             ████████████████░░░░░░░░░   64.73 % 
-Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Markdown                 8 mins              █████████████████████████   99.94 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Codex Vscode             39 mins             █████████████████░░░░░░░░   66.80 % 
-VS Code                  19 mins             ████████░░░░░░░░░░░░░░░░░   33.20 % 
+VS Code                  8 mins              █████████████████████████   99.94 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-新中特                      50 mins             ██████████████████████░░░   86.35 % 
-高级计算机网络                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+新中特                      8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (73.71%)
-
-✍️ 387 lines written by AI, 14 lines written by hand (96.51% AI-written)
-
-🔤 465,980 Input Tokens, 36,697 Output Tokens
-
-💵 $7.97 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 4 AI Prompts
-
-GPT                      387 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.51% of written lines came from AI
-📝 Concise Prompter — average 466 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.73% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
