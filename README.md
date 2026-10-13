@@ -24,28 +24,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 8 mins        █████████████░░░░░░░░░░░░   52.76 % 
-Markdown                 1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   35.45 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   2 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.53 % 
+Markdown                 1 hr 58 mins        ███████████░░░░░░░░░░░░░░   43.08 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 48 mins       ████████████████████████░   94.00 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Codex Vscode             3 hrs 48 mins       █████████████████████░░░░   82.90 % 
+VS Code                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 
 🐱‍💻 Projects: 
-embody_nav               4 hrs 3 mins        █████████████████████████   100.00 % 
+embody_nav               4 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 48 mins (94.09%)
+⏱ AI Coding Time: 3 hrs 48 mins (82.98%)
 
-✍️ 534 lines written by AI, 21 lines written by hand (96.22% AI-written)
+✍️ 534 lines written by AI, 36 lines written by hand (93.68% AI-written)
 
 🔤 1,503,072 Input Tokens, 50,000 Output Tokens
 
@@ -56,10 +56,10 @@ Linux                    4 hrs 3 mins        ███████████�
 GPT                      534 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.22% of written lines came from AI
+🤖 AI-Driven — 93.68% of written lines came from AI
 📄 Detailed Prompter — average 795 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.45% of changed lines were hand-edited
+🚀 High AI Trust — 9.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
