@@ -14,9 +14,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -24,46 +24,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 37 mins       ████████████████████░░░░░   81.85 % 
-Desktop file             1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Python                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Markdown                 10 hrs 37 mins      ███████████████████████░░   91.93 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 57 mins       ████████████████░░░░░░░░░   63.97 % 
-VS Code                  3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Codex CLI                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Codex Vscode             7 hrs 17 mins       ████████████████░░░░░░░░░   63.05 % 
+VS Code                  4 hrs               █████████░░░░░░░░░░░░░░░░   34.75 % 
+Codex CLI                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🐱‍💻 Projects: 
-thesis_nav               5 hrs 17 mins       ██████████████░░░░░░░░░░░   56.81 % 
-embody_nav               3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
-project-setup-info-local 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+thesis_nav               7 hrs 4 mins        ███████████████░░░░░░░░░░   61.31 % 
+embody_nav               4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+project-setup-info-local 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 28 mins      █████████████████████████   99.28 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 29 mins (69.76%)
+⏱ AI Coding Time: 8 hrs 42 mins (75.31%)
 
-✍️ 1,819 lines written by AI, 14 lines written by hand (99.24% AI-written)
+✍️ 2,489 lines written by AI, 69 lines written by hand (97.3% AI-written)
 
-🔤 4,197,719 Input Tokens, 252,800 Output Tokens
+🔤 5,992,077 Input Tokens, 323,393 Output Tokens
 
-💵 $18.60 Estimated AI Cost This Week
+💵 $20.72 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 35 AI Prompts
+🧠 13 AI Sessions, 56 AI Prompts
 
-GPT                      1,823 lines         █████████████████████████   100.00 % 
+GPT                      2,495 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📝 Concise Prompter — average 277 characters per prompt
+🤖 AI-Driven — 97.3% of written lines came from AI
+📝 Concise Prompter — average 410 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.14% of changed lines were hand-edited
+🚀 High AI Trust — 2.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
