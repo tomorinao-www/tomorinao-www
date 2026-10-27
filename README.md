@@ -24,48 +24,48 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        ███████████████░░░░░░░░░░   59.30 % 
-Python                   2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Image (svg)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Markdown                 6 hrs 36 mins       ███████████████░░░░░░░░░░   60.40 % 
+Python                   3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Image (svg)              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.25 % 
-VS Code                  4 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.27 % 
-Codex CLI                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Codex Vscode             6 hrs 21 mins       ███████████████░░░░░░░░░░   58.21 % 
+VS Code                  4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
 
 🐱‍💻 Projects: 
-dog-agent                5 hrs 13 mins       █████████████░░░░░░░░░░░░   50.90 % 
-embody_nav               2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.23 % 
-thesis_nav               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+dog-agent                6 hrs 1 min         ██████████████░░░░░░░░░░░   55.16 % 
+embody_nav               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+thesis_nav               1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+ZSM-1                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  5 hrs 18 mins       █████████████░░░░░░░░░░░░   51.72 % 
-Linux                    4 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.28 % 
+Windows                  7 hrs 15 mins       █████████████████░░░░░░░░   66.47 % 
+Linux                    3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (75.18%)
+⏱ AI Coding Time: 8 hrs 11 mins (74.93%)
 
-✍️ 1,503 lines written by AI, 90 lines written by hand (94.35% AI-written)
+✍️ 1,513 lines written by AI, 143 lines written by hand (91.36% AI-written)
 
-🔤 3,870,780 Input Tokens, 210,116 Output Tokens
+🔤 4,071,290 Input Tokens, 219,582 Output Tokens
 
-💵 $37.71 Estimated AI Cost This Week
+💵 $43.17 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 48 AI Prompts
+🧠 12 AI Sessions, 49 AI Prompts
 
-GPT                      1,509 lines         █████████████████████████   100.00 % 
+GPT                      1,519 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.35% of written lines came from AI
-📝 Concise Prompter — average 416 characters per prompt
+🤖 AI-Driven — 91.36% of written lines came from AI
+📝 Concise Prompter — average 409 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.98% of changed lines were hand-edited
+🚀 High AI Trust — 9.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
