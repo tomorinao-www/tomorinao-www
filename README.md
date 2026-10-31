@@ -14,9 +14,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-158%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -24,45 +24,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.42 % 
-Python                   5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.79 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown                 6 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.59 % 
+Python                   3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Bash                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 10 mins       ██████████████░░░░░░░░░░░   56.64 % 
-VS Code                  6 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
+Codex Vscode             8 hrs 44 mins       ████████████████░░░░░░░░░   62.95 % 
+VS Code                  5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.05 % 
 
 🐱‍💻 Projects: 
-ZSM-1                    8 hrs 3 mins        ██████████████░░░░░░░░░░░   55.87 % 
-dog-agent                5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
-dynamap                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+ZSM-1                    11 hrs 31 mins      █████████████████████░░░░   83.01 % 
+dog-agent                1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+dynamap                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 8 mins (70.28%)
+⏱ AI Coding Time: 10 hrs 34 mins (76.25%)
 
-✍️ 5,906 lines written by AI, 212 lines written by hand (96.53% AI-written)
+✍️ 7,621 lines written by AI, 225 lines written by hand (97.13% AI-written)
 
-🔤 9,546,203 Input Tokens, 469,546 Output Tokens
+🔤 10,073,335 Input Tokens, 519,882 Output Tokens
 
-💵 $80.87 Estimated AI Cost This Week
+💵 $55.75 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 45 AI Prompts
+🧠 8 AI Sessions, 51 AI Prompts
 
-GPT                      5,960 lines         █████████████████████████   100.00 % 
+GPT                      7,671 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.53% of written lines came from AI
-📄 Detailed Prompter — average 584 characters per prompt
+🤖 AI-Driven — 97.13% of written lines came from AI
+📄 Detailed Prompter — average 547 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.43% of changed lines were hand-edited
+🚀 High AI Trust — 4.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
