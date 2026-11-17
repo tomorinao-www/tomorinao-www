@@ -24,42 +24,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 54 mins       █████████████░░░░░░░░░░░░   53.87 % 
-Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-TypeScript               1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Python                   5 hrs 24 mins       ███████████████░░░░░░░░░░   58.01 % 
+Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+TypeScript               1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 20 mins       ████████████████████░░░░░   80.47 % 
-VS Code                  1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Codex Vscode             7 hrs 18 mins       ████████████████████░░░░░   78.28 % 
+VS Code                  2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 
 🐱‍💻 Projects: 
-ZSM-1                    8 hrs 59 mins       █████████████████████████   98.62 % 
-dynamap                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+ZSM-1                    9 hrs 7 mins        ████████████████████████░   97.71 % 
+dynamap                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+sherpa-onnx-venv         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  9 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 53 mins (97.39%)
+⏱ AI Coding Time: 9 hrs 5 mins (97.45%)
 
-✍️ 7,996 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,569 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,178,293 Input Tokens, 660,005 Output Tokens
+🔤 6,714,394 Input Tokens, 687,738 Output Tokens
 
-💵 $34.96 Estimated AI Cost This Week
+💵 $33.02 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 42 AI Prompts
+🧠 6 AI Sessions, 37 AI Prompts
 
-GPT                      8,004 lines         █████████████████████████   100.00 % 
+GPT                      8,574 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
+📝 Concise Prompter — average 211 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
