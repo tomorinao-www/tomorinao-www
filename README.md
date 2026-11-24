@@ -24,45 +24,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 31 mins       ███████████████░░░░░░░░░░   58.65 % 
-Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Python                   5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.54 % 
+Markdown                 2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 1 min         █████████████████████░░░░   85.17 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Codex Vscode             7 hrs 58 mins       █████████████████████░░░░   83.56 % 
+VS Code                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 
 🐱‍💻 Projects: 
-ZSM-1                    8 hrs 59 mins       ████████████████████████░   95.43 % 
-codex                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-sherpa-onnx-venv         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+ZSM-1                    8 hrs 29 mins       ██████████████████████░░░   88.95 % 
+english                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+codex                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+hachimi_ws               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 19 mins (98.89%)
+⏱ AI Coding Time: 9 hrs 26 mins (98.87%)
 
-✍️ 6,899 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 5,913 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
-🔤 6,922,209 Input Tokens, 664,264 Output Tokens
+🔤 7,527,312 Input Tokens, 638,026 Output Tokens
 
-💵 $35.97 Estimated AI Cost This Week
+💵 $41.01 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 32 AI Prompts
+🧠 7 AI Sessions, 37 AI Prompts
 
-GPT                      7,030 lines         █████████████████████████   100.00 % 
+GPT                      6,080 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 176 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
