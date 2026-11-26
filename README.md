@@ -24,46 +24,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs               ██████████████░░░░░░░░░░░   54.44 % 
-Markdown                 1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Python                   2 hrs 50 mins       █████████████░░░░░░░░░░░░   51.82 % 
+Markdown                 1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+JSON                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+C++                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 47 mins       ████████████████████░░░░░   78.69 % 
-VS Code                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Codex Vscode             4 hrs 27 mins       ████████████████████░░░░░   81.17 % 
+VS Code                  1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 
 🐱‍💻 Projects: 
-ZSM-1                    6 hrs 18 mins       █████████████████████░░░░   85.68 % 
-english                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-codex                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-hachimi_ws               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+ZSM-1                    4 hrs 26 mins       ████████████████████░░░░░   80.82 % 
+english                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+codex                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+hachimi_ws               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 15 mins (98.54%)
+⏱ AI Coding Time: 5 hrs 26 mins (99.0%)
 
-✍️ 4,583 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 2,877 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,436,608 Input Tokens, 497,127 Output Tokens
+🔤 5,235,683 Input Tokens, 368,837 Output Tokens
 
-💵 $34.30 Estimated AI Cost This Week
+💵 $27.90 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 33 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
-GPT                      4,738 lines         █████████████████████████   100.00 % 
+GPT                      3,013 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 139 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 169 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
